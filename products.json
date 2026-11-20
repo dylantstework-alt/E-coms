@@ -1,0 +1,73 @@
+
+[
+    {
+        "id": 1,
+        "name": "Kaiju No.8",
+        "price": 499.99,
+        "description": "Black hoodie with decal on the back",
+        "image": "itemImages/image1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Solo Leveling",
+        "price": 399.99,
+        "description": "Black hoodie with decal on the back and sleeves",
+        "image": "itemImages/image2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Three Kings Anime",
+        "price": 599.99,
+        "description": "Black hoodie with decal on the back",
+        "image": "itemImages/image3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Blue Lock (Nagi)",
+        "price": 299.99,
+        "description": "Black hoodie with decal on the back",
+        "image": "itemImages/image4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Itachi",
+        "price": 499.99,
+        "description": "Black hoodie with decal on the back",
+        "image": "itemImages/image5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Luffy Gear 5",
+        "price": 499.99,
+        "description": "White hoodie with decal on the back and sleeves",
+        "image": "itemImages/image6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "JJK (Gojo)",
+        "price": 599.99,
+        "description": "White hoodie with decal on the front and sleeves",
+        "image": "itemImages/image7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "JJK (Toji Fushiguro)",
+        "price": 599.99,
+        "description": "Red hoodie with decal on the front(middle chest) and back",
+        "image": "itemImages/image8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Berserk",
+        "price": 399.99,
+        "description": "Black hoodie with decal on the back and front(left chest)",
+        "image": "itemImages/image9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "AOT (Eren Yeager)",
+        "price": 499.99,
+        "description": "Black hoodie with decal on the back",
+        "image": "itemImages/image10.jpg"
+    }
+]
