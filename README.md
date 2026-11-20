@@ -1,0 +1,1 @@
+This is E-coms Platform that is still in development. Please note: updates and new features may be added in the for seeable future, and this is not completed!
